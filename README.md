@@ -1,7 +1,8 @@
 # Netflix Titles – Data Cleaning
 
 This repository contains a data cleaning script for `netflix_titles.csv`.
-The dataset that has been use is from Kaggle (https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/data)
+
+The dataset that has been used is from Kaggle (https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/data)
 
 ## Tasks Performed
 1. **Identify and handle missing values**  
@@ -36,4 +37,5 @@ The dataset that has been use is from Kaggle (https://www.kaggle.com/datasets/ra
 2. Run the script:  
    ```bash
    python cleaning_script.py
+
 
